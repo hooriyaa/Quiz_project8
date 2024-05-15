@@ -1,0 +1,23 @@
+{
+  "name": "hooriya_quiz-project8_898",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "bin": {
+    "hooriya_quiz-project8_898": "bin/index.js"
+  }
+}
